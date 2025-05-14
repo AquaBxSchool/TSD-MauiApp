@@ -16,34 +16,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85c9de35-2630-44e3-96dd-17613a9cdd0c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TSD-MauiApp/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TSD-MauiApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TSD-MauiApp/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/App.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppShell.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/AppShell.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppShell.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AppShell.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MauiProgram.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MauiProgram.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/About.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/About.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/AllNotes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/AllNotes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Note.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Note.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/Android/MainActivity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/Android/MainActivity.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/Android/MainApplication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/Android/MainApplication.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/MacCatalyst/AppDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/MacCatalyst/AppDelegate.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/MacCatalyst/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/MacCatalyst/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/Tizen/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/Tizen/Main.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/Tizen/tizen-manifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/Tizen/tizen-manifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/Windows/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/Windows/App.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/Windows/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/Windows/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/iOS/AppDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/iOS/AppDelegate.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/iOS/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/iOS/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSD-MauiApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Task1.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TSD-MauiApp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TSD-MauiApp.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/AboutPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/AboutPage.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/AboutPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Views/AboutPage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/AllNotesPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/AllNotesPage.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/AllNotesPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Views/AllNotesPage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/NotePage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/NotePage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.TSD-MauiApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.TSD-MauiApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TSD-MauiApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TSD-MauiApp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Views/NotePage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Views/NotePage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/App.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/AppShell.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/AppShell.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/AppShell.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/AppShell.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Models/Note.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Models/Note.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Platforms/Android/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Platforms/Android/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Platforms/MacCatalyst/AppDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Platforms/MacCatalyst/AppDelegate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Platforms/MacCatalyst/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Platforms/MacCatalyst/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Platforms/MacCatalyst/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Platforms/MacCatalyst/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Platforms/Tizen/tizen-manifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Platforms/Tizen/tizen-manifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Platforms/Windows/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Platforms/Windows/App.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Platforms/Windows/Package.appxmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Platforms/Windows/Package.appxmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Platforms/Windows/app.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Platforms/Windows/app.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Platforms/iOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Platforms/iOS/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Resources/AppIcon/appicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Resources/AppIcon/appicon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Resources/AppIcon/appiconfg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Resources/AppIcon/appiconfg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Resources/Splash/splash.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Resources/Splash/splash.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Resources/Styles/Colors.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Resources/Styles/Colors.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Resources/Styles/Styles.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Resources/Styles/Styles.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Task2_3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Task2_3.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/ViewModels/AboutViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/ViewModels/AboutViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/ViewModels/NoteViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/ViewModels/NoteViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/ViewModels/NotesViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/ViewModels/NotesViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Views/AboutPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Views/AboutPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Views/AboutPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Views/AboutPage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Views/AllNotesPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Views/AllNotesPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Views/AllNotesPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Views/AllNotesPage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Views/NotePage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Views/NotePage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2_3/Views/NotePage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2_3/Views/NotePage.xaml.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,18 +59,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AquaBx"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AquaBx&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AquaBxSchool/TSD-MauiApp.git",
-    "accountId": "11e3f751-3ff2-4033-82fc-f0cb45163f39"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AquaBxSchool/TSD-MauiApp.git&quot;,
+    &quot;accountId&quot;: &quot;11e3f751-3ff2-4033-82fc-f0cb45163f39&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a6f52f75db0c77bb83f322fb52f52cef9cff6cdafbb94dfec214bab243d18/Task.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
       <facet id="TSD-MauiApp/invalid/Android Facet - TSD-MauiApp" />
@@ -75,9 +81,9 @@
       <facet id="Task2_3/invalid/Android Facet - Task2_3" />
     </ignored-facets>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2x5XJlVa8SZpanQJnKFknliyOR4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -97,7 +103,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
+    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -192,7 +198,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747228838491</updated>
-      <workItem from="1747228839645" duration="1072000" />
+      <workItem from="1747228839645" duration="2223000" />
+      <workItem from="1747231087178" duration="3234000" />
     </task>
     <servers />
   </component>
@@ -218,6 +225,19 @@
           <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="3" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../Task2_3/ViewModels/NotesViewModel.cs</url>
+          <line>23</line>
+          <properties documentPath="$PROJECT_DIR$/../Task2_3/ViewModels/NotesViewModel.cs" containingFunctionPresentation="Method 'ApplyQueryAttributes'">
+            <startOffsets>
+              <option value="772" />
+            </startOffsets>
+            <endOffsets>
+              <option value="805" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
+
 <ContentPage
     x:Class="Task2_3.Views.AboutPage"
-    x:DataType="models:About"
+    x:DataType="viewModels:AboutViewModel"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-    xmlns:models="clr-namespace:Task2_3.Models"
+    xmlns:viewModels="clr-namespace:Task2_3.ViewModels"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
 
     <ContentPage.BindingContext>
-        <models:About />
+        <viewModels:AboutViewModel />
     </ContentPage.BindingContext>
 
     <VerticalStackLayout Margin="10" Spacing="10">
@@ -38,6 +39,6 @@
         </HorizontalStackLayout>
 
         <Label Text="{Binding Message}" />
-        <Button Clicked="LearnMore_Clicked" Text="Learn more..." />
+        <Button Command="{Binding ShowMoreInfoCommand}" Text="Learn more..." />
     </VerticalStackLayout>
 </ContentPage>

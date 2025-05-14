@@ -10,34 +10,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d280210-fd74-4836-b619-0aa1a9496afd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Task1/.idea/.idea.TSD-MauiApp/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/.idea/.idea.TSD-MauiApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/.idea/.idea.TSD-MauiApp/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/App.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/AppShell.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/AppShell.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/AppShell.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/AppShell.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/MauiProgram.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/MauiProgram.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Models/About.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Models/About.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Models/AllNotes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Models/AllNotes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Models/Note.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Models/Note.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Platforms/Android/MainActivity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Platforms/Android/MainActivity.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Platforms/Android/MainApplication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Platforms/Android/MainApplication.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Platforms/MacCatalyst/AppDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Platforms/MacCatalyst/AppDelegate.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Platforms/MacCatalyst/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Platforms/MacCatalyst/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Platforms/Tizen/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Platforms/Tizen/Main.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Platforms/Tizen/tizen-manifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Platforms/Tizen/tizen-manifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Platforms/Windows/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Platforms/Windows/App.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Platforms/Windows/App.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Platforms/Windows/App.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Platforms/iOS/AppDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Platforms/iOS/AppDelegate.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Platforms/iOS/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Platforms/iOS/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/TSD-MauiApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Task1.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/TSD-MauiApp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/TSD-MauiApp.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Views/AboutPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Views/AboutPage.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Views/AboutPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Views/AboutPage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Views/AllNotesPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Views/AllNotesPage.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Views/AllNotesPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Views/AllNotesPage.xaml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Views/NotePage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Views/NotePage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TSD-MauiApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TSD-MauiApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/.idea/.idea.TSD-MauiApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/.idea/.idea.TSD-MauiApp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task1/Views/NotePage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Views/NotePage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/App.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/AppShell.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/AppShell.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/AppShell.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/AppShell.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Models/Note.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Models/Note.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Platforms/Android/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Platforms/Android/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Platforms/MacCatalyst/AppDelegate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Platforms/MacCatalyst/AppDelegate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Platforms/MacCatalyst/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Platforms/MacCatalyst/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Platforms/MacCatalyst/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Platforms/MacCatalyst/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Platforms/Tizen/tizen-manifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Platforms/Tizen/tizen-manifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Platforms/Windows/App.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Platforms/Windows/App.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Platforms/Windows/Package.appxmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Platforms/Windows/Package.appxmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Platforms/Windows/app.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Platforms/Windows/app.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Platforms/iOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Platforms/iOS/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Resources/AppIcon/appicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Resources/AppIcon/appicon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Resources/AppIcon/appiconfg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Resources/AppIcon/appiconfg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Resources/Splash/splash.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Resources/Splash/splash.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Resources/Styles/Colors.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Resources/Styles/Colors.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Resources/Styles/Styles.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Resources/Styles/Styles.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Task2_3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Task2_3.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/ViewModels/AboutViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/ViewModels/AboutViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/ViewModels/NoteViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/ViewModels/NoteViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/ViewModels/NotesViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/ViewModels/NotesViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Views/AboutPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Views/AboutPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Views/AboutPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Views/AboutPage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Views/AllNotesPage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Views/AllNotesPage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Views/AllNotesPage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Views/AllNotesPage.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Views/NotePage.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Views/NotePage.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2_3/Views/NotePage.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2_3/Views/NotePage.xaml.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +143,7 @@
       <workItem from="1747166467148" duration="2014000" />
       <workItem from="1747223510493" duration="974000" />
       <workItem from="1747225164777" duration="3570000" />
-      <workItem from="1747228814277" duration="1097000" />
+      <workItem from="1747228814277" duration="2243000" />
     </task>
     <servers />
   </component>
