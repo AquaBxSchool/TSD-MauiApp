@@ -11,10 +11,18 @@
         <ShellContent
             ContentTemplate="{DataTemplate local:MainPage}"
             Icon="{OnPlatform 'house.png',
-                              iOS='house',
+                              iOS='house.png',
                               MacCatalyst='house.png'}"
             Route="MainPage"
             Title="Home" />
+
+        <ShellContent
+            ContentTemplate="{DataTemplate local:NotePage}"
+            Icon="{OnPlatform 'notepad.png',
+                              iOS='notepad.png',
+                              MacCatalyst='notepad.png'}"
+            Route="NotePage"
+            Title="NotePage" />
 
         <ShellContent
             ContentTemplate="{DataTemplate local:AboutPage}"
