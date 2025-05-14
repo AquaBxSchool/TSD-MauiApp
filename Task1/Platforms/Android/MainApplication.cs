@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace TSD_MauiApp;
+namespace Task1;
 
 [Application]
 public class MainApplication : MauiApplication

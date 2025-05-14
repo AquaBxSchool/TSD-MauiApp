@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TSD_MauiApp.Views;
+namespace Task1.Views;
 
 public partial class AllNotesPage : ContentPage
 {

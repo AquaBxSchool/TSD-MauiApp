@@ -1,4 +1,4 @@
-namespace TSD_MauiApp.Views;
+namespace Task1.Views;
 
 [QueryProperty(nameof(ItemId), nameof(ItemId))]
 public partial class NotePage : ContentPage {

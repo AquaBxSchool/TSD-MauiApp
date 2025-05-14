@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace TSD_MauiApp;
+namespace Task1;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace TSD_MauiApp;
+namespace Task1;
 
 class Program : MauiApplication
 {

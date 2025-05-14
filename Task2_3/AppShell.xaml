@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    Shell.FlyoutBehavior="Disabled"
+    Title="NoteApp2"
+    x:Class="Task2_3.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:views="clr-namespace:Task2_3.Views"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <TabBar>
+
+
+        <ShellContent
+            ContentTemplate="{DataTemplate views:AllNotesPage}"
+            Icon="{OnPlatform 'notepad.png',
+                              iOS='notepad.png',
+                              MacCatalyst='notepad.png'}"
+            Title="Notes" />
+
+        <ShellContent
+            ContentTemplate="{DataTemplate views:AboutPage}"
+            Icon="{OnPlatform 'info.png',
+                              iOS='info.png',
+                              MacCatalyst='info.png'}"
+            Title="About" />
+    </TabBar>
+
+</Shell>

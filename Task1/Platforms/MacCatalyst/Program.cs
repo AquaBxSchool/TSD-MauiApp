@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace TSD_MauiApp;
+namespace Task1;
 
 public class Program
 {

@@ -1,4 +1,4 @@
-namespace TSD_MauiApp.Models;
+namespace Task1.Models;
 
 using System.Collections.ObjectModel;
 
