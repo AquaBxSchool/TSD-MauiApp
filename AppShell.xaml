@@ -4,33 +4,24 @@
     Title="TSD_MauiApp"
     x:Class="TSD_MauiApp.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-    xmlns:local="clr-namespace:TSD_MauiApp"
+    xmlns:views="clr-namespace:TSD_MauiApp.Views"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
     <TabBar>
 
-        <ShellContent
-            ContentTemplate="{DataTemplate local:MainPage}"
-            Icon="{OnPlatform 'house.png',
-                              iOS='house.png',
-                              MacCatalyst='house.png'}"
-            Route="MainPage"
-            Title="Home" />
 
         <ShellContent
-            ContentTemplate="{DataTemplate local:NotePage}"
+            ContentTemplate="{DataTemplate views:AllNotesPage}"
             Icon="{OnPlatform 'notepad.png',
                               iOS='notepad.png',
                               MacCatalyst='notepad.png'}"
-            Route="NotePage"
-            Title="NotePage" />
+            Title="Notes" />
 
         <ShellContent
-            ContentTemplate="{DataTemplate local:AboutPage}"
+            ContentTemplate="{DataTemplate views:AboutPage}"
             Icon="{OnPlatform 'info.png',
                               iOS='info.png',
                               MacCatalyst='info.png'}"
-            Route="AboutPage"
-            Title="About Page" />
+            Title="About" />
     </TabBar>
 
 </Shell>
